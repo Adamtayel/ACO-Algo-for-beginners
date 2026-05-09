@@ -17,7 +17,7 @@ The Traveling Salesperson Problem (TSP) is an NP-hard problem in combinatorial o
 
 ---
 
-## ⚙️ Hyperparameters
+##  Hyperparameters
 
 The behavior of the ACO algorithm is highly dependent on the following parameters configured in the script:
 
